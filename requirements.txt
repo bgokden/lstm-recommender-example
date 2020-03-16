@@ -1,8 +1,7 @@
-numpy==1.18.1
-tensorflow==1.10.1
-tensorflow_hub==0.2.0
-Keras==2.2.4
-pandas==0.23.4
-scikit_learn==0.22.2.post1
-tensorflow_text==2.1.1
+numpy==1.16.4
 tensorflow==2.0.1
+tensorflow_hub==0.5.0
+Keras==2.3.1
+pandas==0.23.4
+scikit_learn==0.21.2
+tensorflow_text==2.0.1
